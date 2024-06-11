@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+const INFURA_ID = "f02357c424834b1f83452f63139017c7"
 ## Getting Started
 
 First, run the development server:
